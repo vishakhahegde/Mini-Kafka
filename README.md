@@ -34,4 +34,6 @@ KAFKA CONSUMER: (dynamic)
 -receive all messages from start of topic (from-beginning flag)
 -send ack to broker on receiving message
 
+Messages sent in form of JSON key-value pairs, Topics stored as directories in a file system.
+
 
